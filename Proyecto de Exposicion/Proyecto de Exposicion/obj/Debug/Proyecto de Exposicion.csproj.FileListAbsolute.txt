@@ -1,0 +1,6 @@
+C:\Users\CompuStore\source\repos\Proyecto de Exposicion\Proyecto de Exposicion\bin\Debug\Proyecto de Exposicion.exe.config
+C:\Users\CompuStore\source\repos\Proyecto de Exposicion\Proyecto de Exposicion\bin\Debug\Proyecto de Exposicion.exe
+C:\Users\CompuStore\source\repos\Proyecto de Exposicion\Proyecto de Exposicion\bin\Debug\Proyecto de Exposicion.pdb
+C:\Users\CompuStore\source\repos\Proyecto de Exposicion\Proyecto de Exposicion\obj\Debug\Proyecto de Exposicion.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Proyecto de Exposicion\Proyecto de Exposicion\obj\Debug\Proyecto de Exposicion.exe
+C:\Users\CompuStore\source\repos\Proyecto de Exposicion\Proyecto de Exposicion\obj\Debug\Proyecto de Exposicion.pdb

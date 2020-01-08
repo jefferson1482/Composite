@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proyecto_de_Exposicion.ComponenteArbol">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>ComponenteArbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_de_Exposicion.Hoja">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Hoja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_de_Exposicion.Program">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_de_Exposicion.Rama">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAgAA=</HashCode>
+      <FileName>Rama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
